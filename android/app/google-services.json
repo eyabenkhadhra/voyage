@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601911078689",
+    "project_id": "voyageglid3",
+    "storage_bucket": "voyageglid3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601911078689:android:d5bc0e1c42eadfdf88d860",
+        "android_client_info": {
+          "package_name": "com.example.voyage1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601911078689-u2857nek22d0p5m1839qi9mduij40sfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOzvzcYUzbWR_n0_UyYCSWbBeZ6w8VzpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601911078689-u2857nek22d0p5m1839qi9mduij40sfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
